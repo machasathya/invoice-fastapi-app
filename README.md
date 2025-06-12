@@ -1,6 +1,6 @@
-# invoice-fastapi-app
+# personalized_invoice_generator-fastapi-app
 
-# Invoice FastAPI App
+
 
 A simple, modular invoice and billing backend built using **FastAPI**, **SQLAlchemy**, and **MySQL**. This app supports JWT-based user authentication, invoice creation, previewing, and direct printing.
 
